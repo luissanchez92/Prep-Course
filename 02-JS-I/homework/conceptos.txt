@@ -1,0 +1,16 @@
+homework js1
+
+variable: es un caracter que almacena y recuperan los datos en un programa.
+
+string: es una cadena de caracteres que representa un texto agrupado entre comillas ' ' + '  '
+
+funciones: es un conjunto de instrucciones que calcula una tarea, debe tener una orden de entrada y devolver una salida.
+
+argumentos: una variable que va dentro de una funcion, va dentro de parentesis ( ) varia segun los datos asignado.
+
+return: palabra clave que se utiliza para finalizar una ejecucion, generando 1 solo retorno.
+
+declaraciones if: palabra clave que condiciona una respuesta de acuerdo al argumento.
+
+valores boleano: es un tipo de variable que solo responde a 2 valores (true'si' false 'no')
+ 
