@@ -1,0 +1,12 @@
+homework03 js-II
+
+	for: es un bucle que se utiliza para actualizar o incrementar la variable contador.
+
+ 
+	&&: operardor logico que significa (y) se usa para comparar 2 o mas expresiones. Si las expresiones son verdaderas este devolvera true si alguna es falsa devolvera false.
+
+	
+	||: operardor logico que significa (o) se usa para evaluar 2 o mas expresiones. Para dar false, tienen que ser todos los datos falsos.
+
+
+	!: operador logico que significa (no) se usa para cerar una negacion logica de una expresion.
