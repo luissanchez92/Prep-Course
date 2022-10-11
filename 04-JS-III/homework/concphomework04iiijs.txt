@@ -1,0 +1,3 @@
+Homework04jsIII
+
+	Arrays: Es un objeto donde se puede almacenar distintos tipos de datos, estos datos pueden ser( booleano, string, numeros, funciones, arrays).
