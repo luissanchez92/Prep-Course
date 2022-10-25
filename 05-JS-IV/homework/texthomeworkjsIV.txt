@@ -1,0 +1,17 @@
+homework JavaScripIV
+
+	Objeto: Es una coleccion de datos relacionados entre si (propiedades-valor), generalmente incluyen funciones que se les denomina metodos.
+
+	Propiedades: Son caracteristicas que describen el objeto.
+
+	Metodos: Son instrucciones que estan descritas dentro del metodo, estas instrucciones realizan una accion.
+
+	Bucle for in: Es una herramienta que permite recorrer propiedades dentro del objeto. Su estructura esla siguiente: for(VAR propiedad IN objeto). 
+
+	Dot notation: Herramienta utilizada para para acceder, modificar y asignar elementos al objeto. Su estructura es (nombreObjeto.propiedad).
+
+	Brackets notation: Herramineta usada para acceder, asiganar y recorrer elementos en un objeto. Su estructura es (nombreObjeto[propiedad]).
+
+	DOT vs BRACKETS:
+		Ambas herramientas son muy similares, sin embargo la brackets notation es la mas utilizada para recorrer objetos, se debe tener cuidado
+	al usar la brackets notation y utilizar las comillas ya que si no se conoce la propiedad puede arrojar un error.
