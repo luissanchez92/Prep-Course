@@ -1,0 +1,5 @@
+	Homework javaScript V.
+
+	Protoype: Es un mecanismo por el cual, un objeto puede heredar atributos, caracteristicas y metodos(funciones).
+
+	Constructor de clases: Es un modelo a seguir para crear objetos, basados en sus propiedades y metodos.
