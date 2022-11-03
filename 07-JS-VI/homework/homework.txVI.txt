@@ -1,0 +1,3 @@
+	Homework javascript IV
+
+	funciones CallBack: Son funciones que se le pasan como argumentos a otras funciones, para que estas sean invocadas posteriormente,
