@@ -1,0 +1,34 @@
+#titulo{
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+h1{
+color: darkgreen;
+font-size: 60px;
+margin-left: 20px;
+}
+h2{
+    color: darkgreen;
+    font-size: 30px;
+    margin-left: 20px;
+}
+li{
+    font-size: 20px;
+}
+#parrafo{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#foto{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 180px;
+    right: 100px;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.4);
+}
